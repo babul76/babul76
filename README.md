@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Babul Sahoo</h1>
-<h3 align="center">A passionate DevOps Engineering from India</h3>
+<h3 align="center">A passionate OpenShift Administrator from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babul76&label=Profile%20views&color=0e75b6&style=flat" alt="babul76" /> </p>
 
 - 🔭 I’m currently working on **Paytm Clone**
 
-- 🌱 I’m currently learning **AWS,DevOps**
+- 🌱 I’m currently learning **OpenShift Administrator,AWS,DevOps**
 
-- 💬 Ask me about **As a DevOps engineer, I am creative and passionate about optimizing workflows and infrastructure. I continuously seek innovative solutions to enhance system performance and reliability. My goal is to build efficient, scalable environments and automate processes to ensure seamless integration and deployment, striving for excellence in every aspect of my work.**
+- 💬 Ask me about **As an OpenShift Administrator, I am dedicated to building, managing, and optimizing secure, scalable, and highly available container platforms. I continuously seek innovative ways to enhance cluster performance, automate administrative tasks, and improve operational efficiency. My goal is to maintain reliable OpenShift environments by ensuring seamless application deployment, robust security, proactive monitoring, and efficient infrastructure management, striving for excellence in every aspect of platform administration.**
 
 - 📫 How to reach me **babulsahoo66923@gmail.com**
 
